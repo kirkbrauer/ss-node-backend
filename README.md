@@ -1,2 +1,2 @@
 # ss-node-backend
-Backedn RESTful API for Student Server node edition
+Backed RESTful API for Student Server node edition
